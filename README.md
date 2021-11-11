@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... stuff
 - 🌱 I’m currently learning ... stuff at junior high
 - 💞️ I’m looking to collaborate on ... nothing, i am pretty new to coding
-- 📫 How to reach me ... there is curreently no way to reach me
+- 📫 How to reach me ... there is currently no way to reach me
 
 <!---
 33ZEAV33/33ZEAV33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
